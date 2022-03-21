@@ -1,6 +1,7 @@
 .idea/
 __pycache__/
-build/dist/
+build/
+dist/
 *.bin
 PAD.spec
 cfg.yaml
